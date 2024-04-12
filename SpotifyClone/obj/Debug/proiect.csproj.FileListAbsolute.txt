@@ -1,0 +1,135 @@
+C:\Users\bazar\Desktop\proiect\bin\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\proiect\bin\Debug\proiect.exe
+C:\Users\bazar\Desktop\proiect\bin\Debug\proiect.pdb
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.exe
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.pdb
+C:\Users\bazar\Desktop\proiect\bin\Debug\MySql.Data.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\Google.Protobuf.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\Zstandard.Net.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\Renci.SshNet.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\System.Memory.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\System.Buffers.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bazar\Desktop\proiect\bin\Debug\MySql.Data.xml
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.AddForm.resources
+C:\Users\bazar\Desktop\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\proiect.exe
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\proiect.pdb
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\Google.Protobuf.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\Zstandard.Net.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\Renci.SshNet.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\System.Memory.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\System.Buffers.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\MySql.Data.xml
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.AddForm.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.Form1.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.exe
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.pdb
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.Spotify.resources
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\Interop.WMPLib.dll
+C:\Users\bazar\Desktop\proiect - Copy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.ResolveComReference.cache
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.LogIn.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.Registration.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.Users.resources
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.AssemblyReference.cache
+D:\proiect - Copy\bin\Debug\proiect.exe.config
+D:\proiect - Copy\bin\Debug\proiect.exe
+D:\proiect - Copy\bin\Debug\proiect.pdb
+D:\proiect - Copy\bin\Debug\Google.Protobuf.dll
+D:\proiect - Copy\bin\Debug\Zstandard.Net.dll
+D:\proiect - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\proiect - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\proiect - Copy\bin\Debug\Ubiety.Dns.Core.dll
+D:\proiect - Copy\bin\Debug\Renci.SshNet.dll
+D:\proiect - Copy\bin\Debug\System.Memory.dll
+D:\proiect - Copy\bin\Debug\System.Buffers.dll
+D:\proiect - Copy\bin\Debug\K4os.Compression.LZ4.dll
+D:\proiect - Copy\bin\Debug\K4os.Hash.xxHash.dll
+D:\proiect - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\proiect - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\proiect - Copy\bin\Debug\MySql.Data.xml
+D:\proiect - Copy\bin\Debug\Interop.WMPLib.dll
+D:\proiect - Copy\bin\Debug\AxInterop.WMPLib.dll
+D:\proiect - Copy\obj\Debug\proiect.csproj.AssemblyReference.cache
+D:\proiect - Copy\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+D:\proiect - Copy\obj\Debug\proiect.exe.config
+D:\proiect - Copy\obj\Debug\Interop.WMPLib.dll
+D:\proiect - Copy\obj\Debug\AxInterop.WMPLib.dll
+D:\proiect - Copy\obj\Debug\proiect.csproj.ResolveComReference.cache
+D:\proiect - Copy\obj\Debug\proiect.AddForm.resources
+D:\proiect - Copy\obj\Debug\proiect.Form1.resources
+D:\proiect - Copy\obj\Debug\proiect.LogIn.resources
+D:\proiect - Copy\obj\Debug\proiect.Properties.Resources.resources
+D:\proiect - Copy\obj\Debug\proiect.Registration.resources
+D:\proiect - Copy\obj\Debug\proiect.Spotify.resources
+D:\proiect - Copy\obj\Debug\proiect.Users.resources
+D:\proiect - Copy\obj\Debug\proiect.csproj.GenerateResource.cache
+D:\proiect - Copy\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+D:\proiect - Copy\obj\Debug\proiect.csproj.CopyComplete
+D:\proiect - Copy\obj\Debug\proiect.exe
+D:\proiect - Copy\obj\Debug\proiect.pdb
+C:\Users\bazar\Desktop\proiect - Copy\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\proiect.exe
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\proiect.pdb
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\Google.Protobuf.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\Zstandard.Net.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\Renci.SshNet.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\System.Memory.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\System.Buffers.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\MySql.Data.xml
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\Interop.WMPLib.dll
+C:\Users\bazar\Desktop\Spotify Clone\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.exe.config
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\Interop.WMPLib.dll
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.ResolveComReference.cache
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.AddForm.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.Form1.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.LogIn.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.Registration.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.Spotify.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.Users.resources
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.exe
+C:\Users\bazar\Desktop\Spotify Clone\obj\Debug\proiect.pdb
