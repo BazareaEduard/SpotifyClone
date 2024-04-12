@@ -1,6 +1,6 @@
 Hello, this is my implementation of similar functionality to the well known music streaming platform Spotify.
 This is meant as a personal project, this product will never be made for commercial use.
-In this repository, there are some files intentionally missing to not infringe any copyright rules or give github any reason to make this repo provate or even remove it.
+In this repository, there are some files intentionally missing to not infringe any copyright rules or give github any reason to make this repo private or even remove it.
 This C# application is meant to create a similar interface to that of Spotify for Desktop computers, and it has 2 modes: admin and user.
 The admin mode is accessed through the log in page by entering the credentials "admin" for user and "admin" for password, allowing the administrator to add, remove, change, simply put, he can manipulate the database
 through an easy to use interface.
