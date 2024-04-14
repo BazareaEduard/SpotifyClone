@@ -7,4 +7,4 @@ through an easy to use interface.
 The user must register first and only then can they access the Spotify interface to listen to music, search for albums, songs and artists. They can add friends that already have an account and see their favorite albums.
 When it comes to listening to music, the song can be interacted with through the menu at the bottom of the app, just like Spotify.
 They can also see their profile, or their friends profile, which can be accessed from the friends list.
-This project is meant to be seen by recruitersm so if you are one and encounter any problems with running the code, please contact me at bazareaeduard123@gmail.com and I will do my best to solve the issue.
+This project is meant to be seen by recruiters, so if you are one and encounter any problems with running the code, please contact me at bazareaeduard123@gmail.com and I will do my best to solve the issue.
