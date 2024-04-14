@@ -1,3 +1,4 @@
+#Spotify Clone
 Hello, this is my implementation of similar functionality to the well known music streaming platform Spotify.
 This is meant as a personal project, this product will never be made for commercial use.
 In this repository, there are some files intentionally missing to not infringe any copyright rules or give github any reason to make this repo private or even remove it.
